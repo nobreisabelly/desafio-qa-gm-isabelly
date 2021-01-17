@@ -2,7 +2,8 @@
 
 ## Description
 This project is part of a challenged designed by Greemile.
-This is the approach 3.1 described in an mail.
+
+This is the approach 3.1 described in a mail.
 
 ## Requirements and setup
 1. Install npm 
