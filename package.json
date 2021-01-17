@@ -1,0 +1,17 @@
+{
+  "name": "desafio-qa-gm-isabelly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.2.1",
+    "http-server": "^0.12.3"
+  }
+}
