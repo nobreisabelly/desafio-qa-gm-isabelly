@@ -1,7 +1,7 @@
 # desafio-qa-gm-isabelly
 
 ## Description
-This project is part of a challenged designed by Greemile.
+This project is part of a challenge designed by Greemile.
 
 This is the approach 3.1 described in a mail.
 
